@@ -7,6 +7,9 @@ Dans ce TP, nous allons epérimenter JSP dans une application.
 3. Compilez puis tester
 4. Observez ce qui se passe dans le folder du projet, que remarquez-vous ? 
 --> Notez votre réponse dans le fichier README
+
+# REPONSE : Le dossier Build à été créé pour permettre au projet d'avoir les dependances pour la compilation.
+
 3. Commitez et push
 
 ## Partie 2: Implémentez les fonctionnalités manquantes
